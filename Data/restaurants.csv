@@ -1,0 +1,151 @@
+Restaurant_ID,Restaurant_Name,Cuisine,Restaurant_Rating,Avg_Preparation_Time,Area
+R001,Restaurant 001,Fast Food,4.4,24,Hitech City
+R002,Restaurant 002,Indian,3.7,14,Kukatpally
+R003,Restaurant 003,Pizza,4.3,28,Hitech City
+R004,Restaurant 004,Fast Food,4.2,27,Hitech City
+R005,Restaurant 005,Pizza,4.3,17,Manikonda
+R006,Restaurant 006,Chinese,3.9,31,Kukatpally
+R007,Restaurant 007,Fast Food,4.6,21,Manikonda
+R008,Restaurant 008,Desserts,4.4,42,Banjara Hills
+R009,Restaurant 009,Fast Food,4.8,42,Madhapur
+R010,Restaurant 010,Chinese,4.6,40,Madhapur
+R011,Restaurant 011,Biryani,3.5,29,Begumpet
+R012,Restaurant 012,Pizza,3.9,33,Ameerpet
+R013,Restaurant 013,South Indian,4.3,25,Mehdipatnam
+R014,Restaurant 014,Chinese,4.6,30,Madhapur
+R015,Restaurant 015,South Indian,3.8,22,Ameerpet
+R016,Restaurant 016,Indian,4.1,36,Kondapur
+R017,Restaurant 017,Desserts,4.3,38,Kukatpally
+R018,Restaurant 018,Chinese,4.1,23,Manikonda
+R019,Restaurant 019,Chinese,4.6,27,Hitech City
+R020,Restaurant 020,Fast Food,3.7,30,Manikonda
+R021,Restaurant 021,Pizza,4.4,25,Secunderabad
+R022,Restaurant 022,Indian,3.8,31,Jubilee Hills
+R023,Restaurant 023,Biryani,4.3,31,Madhapur
+R024,Restaurant 024,Fast Food,3.7,16,Kukatpally
+R025,Restaurant 025,Biryani,4.0,40,Ameerpet
+R026,Restaurant 026,Pizza,4.5,23,Hitech City
+R027,Restaurant 027,Desserts,3.7,30,Manikonda
+R028,Restaurant 028,Chinese,4.2,15,Mehdipatnam
+R029,Restaurant 029,Indian,4.4,24,Hitech City
+R030,Restaurant 030,Desserts,4.1,24,Manikonda
+R031,Restaurant 031,Healthy,4.0,14,Manikonda
+R032,Restaurant 032,Chinese,4.1,29,Gachibowli
+R033,Restaurant 033,South Indian,3.7,21,Banjara Hills
+R034,Restaurant 034,Healthy,4.5,16,Manikonda
+R035,Restaurant 035,Biryani,4.5,19,Manikonda
+R036,Restaurant 036,South Indian,4.9,19,Banjara Hills
+R037,Restaurant 037,Indian,4.3,30,Ameerpet
+R038,Restaurant 038,Desserts,4.6,18,Secunderabad
+R039,Restaurant 039,Fast Food,3.9,21,Begumpet
+R040,Restaurant 040,Healthy,4.3,41,Madhapur
+R041,Restaurant 041,Desserts,3.7,32,Manikonda
+R042,Restaurant 042,Pizza,4.2,15,Ameerpet
+R043,Restaurant 043,Indian,4.0,36,Begumpet
+R044,Restaurant 044,Fast Food,4.6,15,Ameerpet
+R045,Restaurant 045,Fast Food,3.2,16,Manikonda
+R046,Restaurant 046,Biryani,4.1,25,Hitech City
+R047,Restaurant 047,Biryani,4.0,33,Ameerpet
+R048,Restaurant 048,Desserts,4.4,25,Ameerpet
+R049,Restaurant 049,Chinese,3.8,22,Kukatpally
+R050,Restaurant 050,Biryani,3.9,35,Gachibowli
+R051,Restaurant 051,South Indian,4.7,28,Madhapur
+R052,Restaurant 052,Chinese,3.9,20,Jubilee Hills
+R053,Restaurant 053,Biryani,4.0,25,Kondapur
+R054,Restaurant 054,Desserts,4.6,16,Ameerpet
+R055,Restaurant 055,Indian,3.2,38,Gachibowli
+R056,Restaurant 056,Fast Food,4.3,21,Gachibowli
+R057,Restaurant 057,Indian,4.3,38,Begumpet
+R058,Restaurant 058,Chinese,4.2,37,Begumpet
+R059,Restaurant 059,Desserts,3.3,15,Ameerpet
+R060,Restaurant 060,Biryani,3.5,24,Manikonda
+R061,Restaurant 061,Pizza,3.8,33,Ameerpet
+R062,Restaurant 062,Biryani,3.8,31,Madhapur
+R063,Restaurant 063,Fast Food,4.4,26,Manikonda
+R064,Restaurant 064,Desserts,3.9,27,Gachibowli
+R065,Restaurant 065,Fast Food,4.8,16,Begumpet
+R066,Restaurant 066,Chinese,4.1,39,Madhapur
+R067,Restaurant 067,Pizza,4.4,33,Jubilee Hills
+R068,Restaurant 068,Chinese,3.8,14,Hitech City
+R069,Restaurant 069,Indian,3.9,36,Manikonda
+R070,Restaurant 070,Biryani,4.3,29,Hitech City
+R071,Restaurant 071,Healthy,4.5,30,Hitech City
+R072,Restaurant 072,South Indian,3.8,36,Mehdipatnam
+R073,Restaurant 073,Pizza,4.7,17,Gachibowli
+R074,Restaurant 074,Fast Food,4.0,36,Banjara Hills
+R075,Restaurant 075,South Indian,4.8,23,Hitech City
+R076,Restaurant 076,Healthy,3.6,35,Gachibowli
+R077,Restaurant 077,South Indian,4.0,29,Begumpet
+R078,Restaurant 078,Healthy,4.4,24,Jubilee Hills
+R079,Restaurant 079,Fast Food,4.1,18,Manikonda
+R080,Restaurant 080,Indian,3.9,37,Kondapur
+R081,Restaurant 081,Chinese,4.4,21,Begumpet
+R082,Restaurant 082,Biryani,4.5,31,Secunderabad
+R083,Restaurant 083,Pizza,4.0,21,Kukatpally
+R084,Restaurant 084,Pizza,4.5,38,Madhapur
+R085,Restaurant 085,Pizza,3.9,32,Gachibowli
+R086,Restaurant 086,Chinese,3.8,39,Manikonda
+R087,Restaurant 087,Chinese,4.7,18,Kondapur
+R088,Restaurant 088,Biryani,3.9,30,Gachibowli
+R089,Restaurant 089,Pizza,3.9,28,Manikonda
+R090,Restaurant 090,Desserts,4.5,15,Madhapur
+R091,Restaurant 091,Pizza,3.7,38,Jubilee Hills
+R092,Restaurant 092,Chinese,3.7,42,Kondapur
+R093,Restaurant 093,Chinese,4.0,41,Jubilee Hills
+R094,Restaurant 094,Desserts,4.2,20,Jubilee Hills
+R095,Restaurant 095,Desserts,4.5,34,Madhapur
+R096,Restaurant 096,Chinese,4.1,31,Hitech City
+R097,Restaurant 097,Chinese,3.8,18,Kondapur
+R098,Restaurant 098,Indian,3.6,14,Secunderabad
+R099,Restaurant 099,Chinese,4.0,40,Madhapur
+R100,Restaurant 100,Chinese,3.9,14,Kondapur
+R101,Restaurant 101,Pizza,4.6,14,Secunderabad
+R102,Restaurant 102,Fast Food,3.4,38,Mehdipatnam
+R103,Restaurant 103,Biryani,3.4,40,Secunderabad
+R104,Restaurant 104,Pizza,3.3,42,Mehdipatnam
+R105,Restaurant 105,Fast Food,4.0,32,Banjara Hills
+R106,Restaurant 106,Desserts,4.3,22,Ameerpet
+R107,Restaurant 107,Biryani,4.8,14,Banjara Hills
+R108,Restaurant 108,Pizza,3.4,27,Begumpet
+R109,Restaurant 109,Indian,4.2,33,Banjara Hills
+R110,Restaurant 110,Fast Food,3.9,14,Mehdipatnam
+R111,Restaurant 111,Pizza,4.8,37,Kondapur
+R112,Restaurant 112,Pizza,4.3,14,Hitech City
+R113,Restaurant 113,Chinese,4.8,37,Madhapur
+R114,Restaurant 114,Fast Food,4.1,16,Kukatpally
+R115,Restaurant 115,Biryani,4.6,31,Kukatpally
+R116,Restaurant 116,South Indian,4.3,39,Secunderabad
+R117,Restaurant 117,Chinese,3.8,37,Kukatpally
+R118,Restaurant 118,Healthy,4.5,18,Madhapur
+R119,Restaurant 119,Fast Food,4.0,17,Banjara Hills
+R120,Restaurant 120,South Indian,3.1,15,Gachibowli
+R121,Restaurant 121,Chinese,4.1,18,Gachibowli
+R122,Restaurant 122,Pizza,3.6,28,Hitech City
+R123,Restaurant 123,Fast Food,4.4,34,Gachibowli
+R124,Restaurant 124,Fast Food,4.8,19,Ameerpet
+R125,Restaurant 125,Desserts,4.3,21,Ameerpet
+R126,Restaurant 126,Chinese,4.4,41,Banjara Hills
+R127,Restaurant 127,Indian,3.6,25,Secunderabad
+R128,Restaurant 128,Fast Food,3.8,37,Hitech City
+R129,Restaurant 129,Indian,3.9,34,Madhapur
+R130,Restaurant 130,Indian,5.0,35,Kukatpally
+R131,Restaurant 131,Biryani,3.9,37,Gachibowli
+R132,Restaurant 132,Healthy,4.2,22,Kukatpally
+R133,Restaurant 133,Desserts,3.3,28,Ameerpet
+R134,Restaurant 134,Desserts,3.9,31,Jubilee Hills
+R135,Restaurant 135,Biryani,4.2,29,Secunderabad
+R136,Restaurant 136,Indian,4.1,31,Gachibowli
+R137,Restaurant 137,Pizza,4.0,32,Madhapur
+R138,Restaurant 138,Indian,4.3,15,Jubilee Hills
+R139,Restaurant 139,Healthy,4.3,29,Jubilee Hills
+R140,Restaurant 140,South Indian,3.6,35,Manikonda
+R141,Restaurant 141,South Indian,3.5,33,Jubilee Hills
+R142,Restaurant 142,Fast Food,4.4,42,Banjara Hills
+R143,Restaurant 143,Chinese,4.5,27,Begumpet
+R144,Restaurant 144,Chinese,3.5,22,Secunderabad
+R145,Restaurant 145,Chinese,4.4,23,Ameerpet
+R146,Restaurant 146,Desserts,3.5,39,Manikonda
+R147,Restaurant 147,Healthy,4.0,21,Secunderabad
+R148,Restaurant 148,Biryani,4.7,19,Hitech City
+R149,Restaurant 149,South Indian,3.4,24,Ameerpet
+R150,Restaurant 150,South Indian,4.1,15,Gachibowli
